@@ -72,8 +72,8 @@ npm install
 ```bash
 npm start
 ```
-The server runs at:
-![Server Run](screenshots/server-run.png)
+
+
 
 ```text
 http://localhost:3000
