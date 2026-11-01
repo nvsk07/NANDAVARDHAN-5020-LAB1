@@ -2,7 +2,7 @@ Deployed_Link: https://nandavardhan-5020-lab1.onrender.com/
 
 # Lab 1: Node.js and Express Server
 
-**Deployed Link:** https://nandavardhan-5020-lab1.onrender.com/
+
 
 ---
 
@@ -146,10 +146,5 @@ Displays an error message for an invalid route.
 
 ---
 
-## Author
-**Bangaru Nandavardhan Sai Kumar**  
-* **Roll Number:** 252U1R5020  
-* **Course:** B.Tech – Computer Science and Engineering  
-* **Year & Section:** II Year – 106 CSE-AIDE(2A)  
-* **Institution:** Aurora Higher Education and Research Academy  
+
 
