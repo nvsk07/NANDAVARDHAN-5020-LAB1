@@ -19,8 +19,8 @@ app.get('/', (req, res) => {
 app.get('/about', (req, res) => {
     res.status(200).json({
         name: "B. Nandavardhan Sai Kumar",
-        registrationNumber: "5020",
-        section: "II"
+        Regno: "5020",
+        section: "IIA"
     });
 });
 
