@@ -1,0 +1,23 @@
+{
+  "name": "nandavardhan-5020-lab1",
+  "version": "1.0.0",
+  "description": "Backend Development Fundamentals Lab 1 - Node.js and Express Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "start:http": "node plain-server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "backend",
+    "lab-1"
+  ],
+  "author": "Bangaru Nandavardhan Sai Kumar",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
